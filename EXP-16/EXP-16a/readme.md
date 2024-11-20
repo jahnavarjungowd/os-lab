@@ -1,8 +1,8 @@
 # program file
-![program file](secondleveldirectory.py)
+![program file](sequential.py)
 
 # program image
-![program image](secondleveldirectory_program.png)
+![program image](sequential_program.png)
 
 # program output
-![program output](secondleveldirectory_output.png)
+![program output](sequential_output.png)
